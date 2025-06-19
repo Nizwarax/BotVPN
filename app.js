@@ -160,7 +160,7 @@ async function sendMainMenu(ctx) {
     ],
     [
       { text: '💰 TopUp Saldo', callback_data: 'topup_saldo' },
-      { text: '🚀 Channel', url: 'https://t.me/freenetlite' }
+      { text: '🚀 Channel', url: 'https://t.me/Deki_niswara' }
     ],
   ];
 
